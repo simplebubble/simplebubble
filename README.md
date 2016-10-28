@@ -2,5 +2,5 @@
 static website for bubble
 
 # Contributors
-do-i
-dustea
+* do-i
+* dustea
