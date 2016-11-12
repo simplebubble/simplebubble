@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rsync -a ../docs/ /var/www/html/bubble
+rsync -vru --times --delete ../docs/ /var/www/html/bubble
