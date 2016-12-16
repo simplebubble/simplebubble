@@ -423,6 +423,10 @@ hr.line {
     max-width: 440px;
 }
 
+.modal-dialog-bubble {
+    width: 78%;
+    max-width: 800px;
+}
 
 #invite {
   background: #f2f2f2;
